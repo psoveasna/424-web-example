@@ -2,7 +2,7 @@
 /* This is a multi line comment in PHP with
 		yet another line of comment */
 		
-		phpinfor();
-
+echo "<h1>This is our feature page!</h1>"
+phpinfor();
 
 ?>

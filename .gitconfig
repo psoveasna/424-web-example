@@ -1,0 +1,46 @@
+[user]
+	name = Soveasna Paak
+[user]
+	email = psoveasna@suffolk.edu
+[alias]
+	log1 = log --all --oneline --decorate --graph
+[diff]
+	tool = p4merge
+[difftool "p4merge"]
+		path = "C:/Program Files/Perforce/p4merge.exe"
+[difftool]
+	prompt = false
+[merge]
+	tool = p4merge
+[mergetool "p4merge"]
+		path = "C:/Program Files/Perforce/p4merge.exe"
+[mergetool]
+	prompt = false
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
